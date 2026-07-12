@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhiraj Dustakar</h1>
 
 <p align="center">
-  Software Engineer • AI Builder • Full Stack Developer
+    <img src="https://flagcdn.com/w20/in.png" width="20" alt="India Flag" /> Based in India • Software Engineer • AI Builder • Full Stack Developer
 </p>
 
 <p align="center">
