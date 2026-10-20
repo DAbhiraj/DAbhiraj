@@ -119,6 +119,10 @@ A centralized event management platform for organizing and discovering campus ev
   <a href="mailto:abhiraj.dustakar@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://abhiraj-dustakar.netlify.app/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Portfolio" height="40" />
+  </a>
 </p>
 
 
